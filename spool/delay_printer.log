@@ -1,0 +1,4 @@
+Successfully forked as daemon
+18 Apr 2025 21:42:22: PID file: spool/delay_printer.pid
+18 Apr 2025 21:42:28: Unlink PID file: spool/delay_printer.pid
+18 Apr 2025 21:42:28: Unlink socket: spool/delay_printer.sock

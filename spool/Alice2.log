@@ -1,0 +1,12 @@
+Successfully forked as daemon
+18 Apr 2025 21:42:22: PID file: spool/Alice2.pid
+18 Apr 2025 21:42:23: Accepted connection, fd = 5
+18 Apr 2025 21:42:28: Created stream for input
+18 Apr 2025 21:42:28: File type is 'aaa'
+18 Apr 2025 21:42:28: Saving data to file spool/Alice2_aaa_1745026948.275620
+18 Apr 2025 21:42:28: Created stream for output
+18 Apr 2025 21:42:28: Bytes received: 21
+18 Apr 2025 21:42:28: Connection terminated
+18 Apr 2025 21:42:28: Accepted connection, fd = 5
+18 Apr 2025 21:42:28: Unlink PID file: spool/Alice2.pid
+18 Apr 2025 21:42:28: Unlink socket: spool/Alice2.sock

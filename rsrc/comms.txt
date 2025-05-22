@@ -1,0 +1,7 @@
+type pdf
+printer alice pdf
+print jabid.pdf
+enable alice
+pause 0
+resume 0
+quit
